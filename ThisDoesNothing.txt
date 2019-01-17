@@ -1,1 +1,4 @@
 public String alpha = "not a code"; 
+
+private int beta = 0;
+
